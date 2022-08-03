@@ -1,7 +1,7 @@
 {
- "name": "CheemsBot-MD",
- "description": "Multi Device Whatsapp Bot By Xeon",
- "version": "3.0.0",
+ "name": "RubyBot-MD",
+ "description": "Multi Device Whatsapp Bot By SMC",
+ "version": "1.0.0",
  "main": "index.js",
  "type": "commonjs",
  "scripts": {
