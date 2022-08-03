@@ -1,109 +1,92 @@
-# MoonlightBot-MD
- <p align="center">
-<img src="https://camo.githubusercontent.com/71b837571c48af3aa60a73dbc9d5936aa359d78efbfa8a6743cbbbc16b80ef4d/68747470733a2f2f63646e2e646973636f72646170702e636f6d2f6174746163686d656e74732f3830353930323039333930363630383138362f3830353931333937323533353539303932322f74656e6f722e676966" alt="nz" width="349"/>
-</p>
-
 <p align="center">
-<img src="https://i.ibb.co/rtKYLMM/93896c71aa57213743432b9c41708ba9.jpg" alt="nz" width="350"/>
+   <a href="https://github.com/senuwaofficial">
+    <img src="https://i.ibb.co/rtKYLMM/93896c71aa57213743432b9c41708ba9.jpg" width="610">
+     
 </p>
+<h1 align="center"> Ruby Bot (Beta)
+</h1>
+<p align="center"> 
+  Hellow, I am "Ruby" a WhatsApp bot made by Fantox to do everything that is possible on WhatsApp based on WhatsApp Multi Device(MD) Support.
+    
+   
+### ✧✧ This bot is still under development so if you want to recode/modify it, pls check this main repo once in 2 days because i am continuously debugging it and making major changes in it.
+### ✧✧ Use `Heroku Deploy Method 2` for easy and more convenient deploy(Trust me).    
 
-## MoonlightBot-MD   Version 1.0
-  
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F33A6A&lines=𝐖𝐞𝐥𝐜𝐨𝐦𝐞+𝐓𝐨+Moonlight+Bot.;Powered+By:+Social+Media+Club;Created+By:+Mr.Senuwa;Miss:+Moonlight;💕ඉතිං+කොහොමද🙃;😁මොකද+කරන්නෙ🌹)](https://git.io/typing-svg)
 
-LATEST VERSION 1.0 (2022-08-03 [Search videos/songs results are not match =fixed=])
+### ✧✧ Deploy Video tutorial:
+- Here's the [video tutorial]() on how to deploy and host Ruby bot.
+- [Video Guide]()
+</br>
+## Heroku Deployment Method 1:
 
-> [🔄Please Follow Me🤭](https://github.com/senuwaofficial)
+#### ✧ Fork this repo.
+#### ✧ Click this scan button below and scan the given QR within 10 seconds from your WhatsApp. 
+<a href="https://shikimoriqr.herokuapp.com/"><img src="https://play-lh.googleusercontent.com/901aMQFFnVoX2T-YuJmTIwpPve_SUgMv_QSyzMSPtAqt_l0CyXN1DxfD6xXU0r2f9iM=w240-h480-rw" width="100" />
+</a>
+#### ✧ Next download that `session.json` file and replace it with the older one present the hompage of your [`Fork`](https://github.com/senuwaofficial
+/Ruby-MD/fork).
 
-<img src="https://camo.githubusercontent.com/71b837571c48af3aa60a73dbc9d5936aa359d78efbfa8a6743cbbbc16b80ef4d/68747470733a2f2f63646e2e646973636f72646170702e636f6d2f6174746163686d656e74732f3830353930323039333930363630383138362f3830353931333937323533353539303932322f74656e6f722e676966" alt="nz" width="600"/>
+#### ✧ After that edit the `README.md` file and change the template link present on line no:`39` with your forked repo link.(Example: `https://github.com/<your GitHub username>/Miku-MD`)
 
-> Image Designed By  ==(Moonlight)== Social Media Club
+#### ✧ Next
 
-> Created By ==(Mr.Senuwa Official)== Social Media Club
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/FantoX001/Miku-MD)
 
-<img src="https://camo.githubusercontent.com/71b837571c48af3aa60a73dbc9d5936aa359d78efbfa8a6743cbbbc16b80ef4d/68747470733a2f2f63646e2e646973636f72646170702e636f6d2f6174746163686d656e74732f3830353930323039333930363630383138362f3830353931333937323533353539303932322f74656e6f722e676966" alt="nz" width="600"/>
 
-<p align="center">
-❯❯Kick bellow topics❮❮
-</p>
-<p align="center">
-To proccess
-</p>
+## Heroku Deployment Method 2:
 
-## ➾ [Scan QR In Your Whatsapp From Here](https://replit.com/@senuwaofficial/MoonLight-MD-Qr#index.js)
+#### ✧ `Fork` this repo.
+#### ✧ `Scan` the QR , download the `session.json` file and replace it with the older one present on the hompage of your `Fork`.
+#### ✧ Go to your `Heroku` account.
+#### ✧ Create a `random app` in Heroku with any name.
+#### ✧ Connect your `GitHub` with `Heroku`
+#### ✧ Then connect `Miku's repo` from your GitHub.
+#### ✧ Go to Heroku's `settings` ----> `Add Buildpacks` then connect these 3 buildpacks one by one mentionned    below.
+#### ✧ Then come back to `Heroku` ----> `Deploy` then deploy the app
+#### ✧ After deploy is finished goto `Heroku` ----> `Resources` and turn on the switch.
+#### ✧ Enjoy :)
+
+
+## Heroku Builbpacks:
+
+```
+https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest
+``` 
+```
+https://github.com/clhuang/heroku-buildpack-webp-binaries.git
+```
+```
+heroku/nodejs
+```
+
+
+
+
+## Join My Whatsapp Group for Support
+
+<a href="https://chat.whatsapp.com/JF13ohqypAZJ81hkcQe51B"><img src="https://img.shields.io/badge/Join Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+</a>
+
+
+## Reminder:
+- This bot is not made by `WhatsApp Inc.` So misusing the bot might `ban` your `WhatsApp account!`(Though your WhatsApp account can be unbanned only once.)
+- I am not responsible for banning your account.
+- Use at your own risk by keeping this warning in mind.
  
-## ➾ [Fork This Repo By Clicking Here](https://github.com/senuwaofficial/Moonlightqueen-MD/fork)
- 
-## ➾ [Then Deploy The Bot From Here](https://heroku.com/deploy)
+
+
+## Contribution:
+- I don't have any contributor in this project. Feel free to contribute.
 
 
 
-<img src="https://camo.githubusercontent.com/71b837571c48af3aa60a73dbc9d5936aa359d78efbfa8a6743cbbbc16b80ef4d/68747470733a2f2f63646e2e646973636f72646170702e636f6d2f6174746163686d656e74732f3830353930323039333930363630383138362f3830353931333937323533353539303932322f74656e6f722e676966" alt="nz" width="600"/>
+## Help:
+- [`Follow`](https://github.com/senuwaofficial#follow) me on GitHub to make me feel motivated.
+- Give my project a ⭐ if you liked it.
 
+     
+## Credits and Appreciation:
 
-
-
-<p align="center">
-<img src="https://i.ibb.co/1nSTQ3Y/360-F-435167274-5k1-Ld-VYGm-Nf11-Lc-Em-Qpr798y-Udsz-BX56.jpg" alt="nz" width="600"/>
-</p>
-
-</details>
-
-> [SUPPORT GROUP](https://chat.whatsapp.com/JF13ohqypAZJ81hkcQe51B)
-
-<b><details><summary>𝗛𝗼𝘄 𝗧𝗼 𝗠𝗮𝗸𝗲?</summary>
-
->Youtube Video Link:-	
-
-
-</b>
-</details>
-
-<!-- Contact Owner -->
-<b><details><summary>Contact Owner</summary></b>
-
-## ```Connect With Me```
-<p align="center">
-<a href="https://wa.me/+94753420144"><img src="https://www.svgrepo.com/show/122874/whatsapp.svg" width="100"/>
-</p>
-
-</details>
-
-<p align="center">
-<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="nz" width="700"/>
-</p>
-
-## Mr: Senuwa Official
-
-
-
-<b><details><summary>Available Features</summary><br>
-	
-| Features |  Availability |
-| :------: |  :----------: | 
-|   Convert     |       ✔     |
-|   Database     |       ✔     |
-|   Owner     |       ✔    |
-|   Islami     |       ✔     |
-|   Downloader     |       ✔     |
-|   Webzone     |       ✔       |
-|   Searching     |       ✔      |
-|   Textpro     |       ✔      |
-|   Ephoto     |       ✔     |
-|   Anime Web     |       ✔      |
-|   Stalker     |       ✔      |
-|   Random Text     |       ✔     |
-|   Random Image     |       ✔     |
-|   Nekos Life     |       ✔      |
-|   More Nsfw     |       ✔      |
-|   Creator     |       ✔      |
-
-</details>
-
-<div align="center">
-	
-[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@senuwaofficial/MoonLight-MD-Qr#index.js)
-
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
-</div>
-
+-   `Adiwajshing` sir for [Baileys](https://github.com/adiwajshing/baileys).
+-   `Arus~Bots` team for [Mizuhara](https://github.com/Arus-Bots/Mizuhara).
+-   `Xeon` for [Cheems](https://github.com/DGXeon/CheemsBot-MD2).
