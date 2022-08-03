@@ -80,7 +80,7 @@ To proccess
 <b><details><summary>Available Features</summary><br>
 	
 | Features |  Availability |
-| :------: |  :----------: |
+| :------: |  :----------: | 
 |   Convert     |       ✔     |
 |   Database     |       ✔     |
 |   Owner     |       ✔    |
